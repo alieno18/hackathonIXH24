@@ -70,4 +70,4 @@ The goal is to replace fragile one time code, key boxes, NFC cards, QR-based che
 - Organizers: XRPL Commons, De Componendis Cifris, Roma Tre University
 
 ## Note
-This is a hackathon project created within 18 hours marathon for the competition, and is intended for demonstration purposes only. It has not undergone security audits and should not be used in production environments without significant review and modification.
+This is a hackathon project created within **18 hours marathon** for the competition, and is intended for demonstration purposes only. It has not undergone security audits and should not be used in production environments without significant review and modification.
